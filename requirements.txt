@@ -1,0 +1,17 @@
+streamlit
+pandas
+scikit-learn
+plotly
+anthropic
+openpyxlstreamlit
+pandas
+scikit-learn
+plotly
+anthropic
+openpyxl
+streamlit
+pandas
+scikit-learn
+plotly
+anthropic
+openpyxl
